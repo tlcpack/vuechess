@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <chessboard />
+    <chessboard :showThreats="true"/>
   </div>
 </template>
 
